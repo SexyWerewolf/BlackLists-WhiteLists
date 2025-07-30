@@ -6,6 +6,7 @@
 135.18.128.210  #fe2cr.update.microsoft.com
 128.85.113.135  #fe2cr.update.microsoft.com
 13.85.23.206    #fe3cr.delivery.mp.microsoft.com
+172.184.231.67  #fe2cr.update.microsoft.com
 135.18.128.208
 40.69.42.241
 199.232.58.172
@@ -41,6 +42,8 @@
 18.244.79.54    #server-18-244-79-54.sof50.r.cloudfront.net
 52.84.115.214   #server-52-84-115-214.sof50.r.cloudfront.net
 172.64.149.23   #ocsp.comodoca.com
+18.244.87.55
+18.165.72.100   #server-18-165-72-100.sof50.r.cloudfront.net
 5.178.43.106
 104.18.38.233
 5.178.43.97
@@ -227,11 +230,13 @@
 20.42.72.131    #v20.events.data.microsoft.com
 20.189.173.11   #v20.events.data.microsoft.com
 20.189.173.18   #v10.events.data.microsoft.com
+51.105.71.136   #v10.events.data.microsoft.com
 52.182.143.211
 20.42.73.31     #v10.events.data.microsoft.com
 20.189.173.2    #v10.events.data.microsoft.com
 20.189.173.10   #v10.events.data.microsoft.com
 20.189.173.5    #v10.events.data.microsoft.com
+20.42.65.85
 20.42.73.24
 20.42.65.91
 20.42.65.84
@@ -356,6 +361,7 @@
 2.22.245.218    #a2-22-245-218.deploy.static.akamaitechnologies.com
 2.22.245.209    #a2-22-245-209.deploy.static.akamaitechnologies.com
 2.22.245.187    #a2-22-245-187.deploy.static.akamaitechnologies.com
+20.103.156.88   #fd.api.iris.microsoft.com
 20.31.169.57
 20.223.35.26
 ######   Settings | systemsettings.exe   ######
@@ -406,6 +412,7 @@
 ######   Windows host process (Rundll32) | rundll32.exe   ######
 40.127.240.158
 51.104.136.2
+51.124.78.146
 4.231.128.59
 ######   Windows host process (Rundll32) | rundll32.exe   ######
 
@@ -515,6 +522,7 @@
 40.126.53.21    #login.live.com
 40.126.53.17    #login.live.com
 20.190.181.2    #login.live.com
+20.199.58.43
 20.31.169.57
 20.74.47.205
 20.231.128.67
@@ -686,7 +694,16 @@
 
 ######   Microsoft Store Install Service | svchost.exe | InstallService   ######
 20.82.228.9
+40.126.53.12    #login.live.com
+40.126.53.7     #login.live.com
+40.126.53.18    #login.live.com
+20.190.181.6    #login.live.com
+40.126.53.14    #login.live.com
+40.126.53.8     #login.live.com
+40.126.53.13    #login.live.com
 20.82.154.241
+20.190.181.2
+20.231.128.66
 ######   Microsoft Store Install Service | svchost.exe | InstallService   ######
 
 
