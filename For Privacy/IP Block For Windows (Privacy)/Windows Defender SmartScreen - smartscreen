@@ -7,7 +7,7 @@
 104.18.38.233   #ocsp.sectigo.com
 204.79.197.203  #a-0003.a-msedge.net
 2.16.189.232    #a2-16-189-232.deploy.static.akamaitechnologies.com
-146.75.2.133
+146.75.2.133    #ocsp2.globalsign.com
 98.64.238.3
 48.209.162.134
 108.141.15.7
@@ -25,3 +25,4 @@
 195.167.82.227
 172.211.159.152
 93.186.137.219  #ctldl.windowsupdate.com
+4.231.68.226    #checkappexec.microsoft.com

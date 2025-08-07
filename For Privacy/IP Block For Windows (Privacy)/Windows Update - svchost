@@ -25,7 +25,7 @@
 20.12.23.50     #slscr.update.microsoft.com
 40.69.42.241
 52.165.164.15
-146.75.122.172
+146.75.122.172  #ctldl.windowsupdate.com
 132.196.74.208  #fe2cr.update.microsoft.com
 20.3.187.198
 20.165.94.63    #slscr.update.microsoft.com
@@ -44,3 +44,4 @@
 20.242.39.171   #fe3cr.delivery.mp.microsoft.com
 134.33.185.100  #fe2cr.update.microsoft.com
 74.178.76.128
+4.231.128.59    #settings-win.data.microsoft.com

@@ -41,7 +41,7 @@
 40.126.53.14
 20.190.147.3
 20.190.181.6
-20.190.181.1
+20.190.181.1    #login.live.com
 40.126.53.11
 20.190.177.23
 20.190.147.1
@@ -55,3 +55,6 @@
 140.82.113.22   #lb-140-82-113-22-iad.github.com
 40.126.31.3
 146.75.2.172    #ctldl.windowsupdate.com
+172.167.2.3     #client.wns.windows.com
+172.166.106.148 #client.wns.windows.com
+172.167.33.55   #client.wns.windows.com

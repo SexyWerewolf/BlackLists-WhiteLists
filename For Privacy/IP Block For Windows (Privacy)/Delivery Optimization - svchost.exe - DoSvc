@@ -32,7 +32,7 @@
 5.178.43.97
 195.167.34.53
 195.167.82.227
-195.167.44.100
+195.167.44.100  #ctldl.windowsupdate.com
 195.167.34.51
 195.167.82.228
 195.167.34.52
@@ -62,3 +62,12 @@
 72.154.7.97     #geo.prod.do.dsp.mp.microsoft.com
 72.153.5.96     #geo.prod.do.dsp.mp.microsoft.com
 72.153.5.62
+72.145.35.96    #geo.prod.do.dsp.mp.microsoft.com
+72.145.35.100   #geo.prod.do.dsp.mp.microsoft.com
+2.20.94.55      #a2-20-94-55.deploy.static.akamaitechnologies.com
+2.20.92.38      #a2-20-92-38.deploy.static.akamaitechnologies.com
+2.21.64.175     #a2-21-64-175.deploy.static.akamaitechnologies.com
+2.21.64.178
+2.16.220.26
+72.145.35.114
+72.145.35.97
