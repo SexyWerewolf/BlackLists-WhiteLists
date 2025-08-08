@@ -1,44 +1,37 @@
-2.16.221.156    #a2-16-221-156.deploy.static.akamaitechnologies.com
-20.190.181.5    #login.live.com
-40.126.53.12    #login.live.com
-20.190.181.4    #login.live.com
-20.190.181.1    #login.live.com
-20.231.128.66   #login.live.com
-40.126.53.7     #login.live.com
-40.126.53.10    #login.live.com
-40.126.53.14    #login.live.com
-40.126.53.9     #login.live.com
-40.126.53.6     #login.live.com
-40.126.53.21    #login.live.com
-40.126.53.17    #login.live.com
-20.190.181.2    #login.live.com
+140.82.121.4    #lb-140-82-121-4-fra.github.com
+149.22.85.67    #unn-149-22-85-67.datapacket.com
+172.169.87.222
 173.236.136.237
-20.199.58.43    #fd.api.iris.microsoft.com
-20.31.169.57
-20.74.47.205
-20.231.128.67
-20.74.47.205
-20.190.147.11
-40.126.53.13    #login.live.com
+173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
+2.16.221.156    #a2-16-221-156.deploy.static.akamaitechnologies.com
+20.103.156.88
+20.105.99.58
+20.165.94.46
 20.190.147.1
+20.190.147.11
+20.190.181.1    #login.live.com
+20.190.181.2    #login.live.com
+20.190.181.4    #login.live.com
+20.190.181.5    #login.live.com
+20.199.58.43
+20.199.58.43    #fd.api.iris.microsoft.com
+20.223.35.26
 20.223.35.26    #fd.api.iris.microsoft.com
 20.223.36.55
-20.199.58.43
-20.223.35.26
-20.223.36.55
+20.231.128.66   #login.live.com
+20.231.128.67
 20.31.169.57
-140.82.121.4    #lb-140-82-121-4-fra.github.com
-20.223.36.55
 20.74.47.205
 20.86.201.138   #fd.api.iris.microsoft.com
-20.103.156.88
-93.186.137.219
-173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
-20.165.94.46
-20.105.99.58
-172.169.87.222
-149.22.85.67    #unn-149-22-85-67.datapacket.com
-20.31.169.57
 23.205.49.190   #a23-205-49-190.deploy.static.akamaitechnologies.com
 34.104.35.123   #123.35.104.34.bc.googleusercontent.com
-20.199.58.43    #fd.api.iris.microsoft.com
+40.126.53.10    #login.live.com
+40.126.53.12    #login.live.com
+40.126.53.13    #login.live.com
+40.126.53.14    #login.live.com
+40.126.53.17    #login.live.com
+40.126.53.21    #login.live.com
+40.126.53.6     #login.live.com
+40.126.53.7     #login.live.com
+40.126.53.9     #login.live.com
+93.186.137.219

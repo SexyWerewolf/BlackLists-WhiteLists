@@ -1,72 +1,77 @@
-23.40.158.218   #a23-40-158-218.deploy.static.akamaitechnologies.com
-104.18.20.226   #crl.globalsign.com
-195.167.34.52
-199.232.58.172
-195.167.82.229
-195.167.82.228
-195.167.44.99
-195.167.81.2
-195.167.44.101
-195.167.81.3
-195.167.82.227
-195.167.34.51
-104.18.21.226
-195.167.81.5
-5.178.43.74
-146.75.2.133    #ocsp2.globalsign.com
-93.123.17.252
-195.167.34.53
-195.167.81.4
-93.186.137.226
-151.101.62.172
-146.75.2.172
-5.178.43.106
-195.167.44.100  #ctldl.windowsupdate.com
-104.122.213.56  #a104-122-213-56.deploy.static.akamaitechnologies.com
-2.19.51.69      #a2-19-51-69.deploy.static.akamaitechnologies.com
-18.244.87.64    #server-18-244-87-64.sof50.r.cloudfront.net
-18.244.87.4     #ocsps.ssl.com
-18.244.87.45    #ocsps.ssl.com
-18.244.87.35    #ocsps.ssl.com
-204.79.197.203  #a-0003.a-msedge.net
-2.19.51.52      #a2-19-51-52.deploy.static.akamaitechnologies.com
-142.250.187.99  #sof02s44-in-f3.1e100.net
-2.19.51.62      #a2-19-51-62.deploy.static.akamaitechnologies.com
-2.19.51.131     #a2-19-51-131.deploy.static.akamaitechnologies.com
-93.186.137.219
-5.178.43.81     #ctldl.windowsupdate.com
-195.167.44.98   #ctldl.windowsupdate.com
-195.167.82.226
-195.167.34.50
-93.186.137.249  #ctldl.windowsupdate.com
-2.19.51.93      #a2-19-51-93.deploy.static.akamaitechnologies.com
-2.19.51.115     #a2-19-51-115.deploy.static.akamaitechnologies.com
-93.186.137.216  #ctldl.windowsupdate.com
-93.186.137.179
-5.178.43.97     #ctldl.windowsupdate.com
-146.75.122.172  #ctldl.windowsupdate.com
-2.22.245.225    #a2-22-245-225.deploy.static.akamaitechnologies.com
-2.19.51.10      #a2-19-51-10.deploy.static.akamaitechnologies.com
-2.22.245.241    #a2-22-245-241.deploy.static.akamaitechnologies.com
-2.22.245.203    #a2-22-245-203.deploy.static.akamaitechnologies.com
-2.22.245.216    #a2-22-245-216.deploy.static.akamaitechnologies.com
-2.22.245.160    #a2-22-245-160.deploy.static.akamaitechnologies.com
-2.21.69.186     #a2-21-69-186.deploy.static.akamaitechnologies.com
-93.186.137.136
-104.18.38.233   #ocsp.comodoca.com.cdn.cloudflare.net
-172.64.149.23   #crt.sectigo.com
-216.58.212.3    #sof04s01-in-f3.1e100.net
-2.19.51.78      #a2-19-51-78.deploy.static.akamaitechnologies.com
-18.173.205.57   #server-18-173-205-57.fra56.r.cloudfront.net
-18.173.205.76   #ocsps.ssl.com
-18.173.205.113  #ocsps.ssl.com
-18.173.205.43   #ocsps.ssl.com
-23.51.98.7      #ocsp.digicert.com
-93.186.137.210
-199.232.170.172
-108.138.36.71   #server-108-138-36-71.muc50.r.cloudfront.net
 104.122.213.129 #a104-122-213-129.deploy.static.akamaitechnologies.com
+104.122.213.56  #a104-122-213-56.deploy.static.akamaitechnologies.com
+104.18.20.226   #crl.globalsign.com
+104.18.21.226
+104.18.38.233   #ocsp.comodoca.com.cdn.cloudflare.net
+108.138.36.12   #server-108-138-36-12.muc50.r.cloudfront.net
 108.138.36.22   #ocsps.ssl.com
 108.138.36.51   #server-108-138-36-51.muc50.r.cloudfront.net
-108.138.36.12   #server-108-138-36-12.muc50.r.cloudfront.net
+108.138.36.71   #server-108-138-36-71.muc50.r.cloudfront.net
+142.250.187.99  #sof02s44-in-f3.1e100.net
+146.75.122.172  #ctldl.windowsupdate.com
+146.75.2.133    #ocsp2.globalsign.com
+146.75.2.172
+151.101.62.172
+172.64.149.23   #crt.sectigo.com
+18.173.205.113  #ocsps.ssl.com
+18.173.205.43   #ocsps.ssl.com
+18.173.205.57   #server-18-173-205-57.fra56.r.cloudfront.net
+18.173.205.76   #ocsps.ssl.com
+18.244.87.35    #ocsps.ssl.com
+18.244.87.4     #ocsps.ssl.com
+18.244.87.45    #ocsps.ssl.com
+18.244.87.64    #server-18-244-87-64.sof50.r.cloudfront.net
+195.167.34.50
+195.167.34.51
+195.167.34.52
+195.167.34.53
+195.167.44.100  #ctldl.windowsupdate.com
+195.167.44.101
+195.167.44.98   #ctldl.windowsupdate.com
+195.167.44.99
+195.167.81.2
+195.167.81.3
+195.167.81.4
+195.167.81.5
+195.167.82.226
+195.167.82.227
+195.167.82.228
+195.167.82.229
+199.232.170.172
+199.232.58.172
+2.19.51.10      #a2-19-51-10.deploy.static.akamaitechnologies.com
+2.19.51.115     #a2-19-51-115.deploy.static.akamaitechnologies.com
+2.19.51.120     #a2-19-51-120.deploy.static.akamaitechnologies.com
+2.19.51.131     #a2-19-51-131.deploy.static.akamaitechnologies.com
+2.19.51.52      #a2-19-51-52.deploy.static.akamaitechnologies.com
+2.19.51.62      #a2-19-51-62.deploy.static.akamaitechnologies.com
+2.19.51.69      #a2-19-51-69.deploy.static.akamaitechnologies.com
+2.19.51.78      #a2-19-51-78.deploy.static.akamaitechnologies.com
+2.19.51.93      #a2-19-51-93.deploy.static.akamaitechnologies.com
+2.21.69.186     #a2-21-69-186.deploy.static.akamaitechnologies.com
+2.22.245.160    #a2-22-245-160.deploy.static.akamaitechnologies.com
+2.22.245.203    #a2-22-245-203.deploy.static.akamaitechnologies.com
+2.22.245.216    #a2-22-245-216.deploy.static.akamaitechnologies.com
+2.22.245.217    #a2-22-245-217.deploy.static.akamaitechnologies.com
+2.22.245.225    #a2-22-245-225.deploy.static.akamaitechnologies.com
+2.22.245.241    #a2-22-245-241.deploy.static.akamaitechnologies.com
+204.79.197.203  #a-0003.a-msedge.net
+216.58.212.3    #sof04s01-in-f3.1e100.net
+216.58.212.35   #sof02s18-in-f3.1e100.net
+23.40.158.218   #a23-40-158-218.deploy.static.akamaitechnologies.com
+23.51.98.7      #ocsp.digicert.com
+5.178.43.106
+5.178.43.74
+5.178.43.81     #ctldl.windowsupdate.com
+5.178.43.97     #ctldl.windowsupdate.com
+93.123.17.252
+93.186.137.136
 93.186.137.176  #ctldl.windowsupdate.com
+93.186.137.177  #ctldl.windowsupdate.com
+93.186.137.178
+93.186.137.179
+93.186.137.210
+93.186.137.216  #ctldl.windowsupdate.com
+93.186.137.219
+93.186.137.226
+93.186.137.249  #ctldl.windowsupdate.com

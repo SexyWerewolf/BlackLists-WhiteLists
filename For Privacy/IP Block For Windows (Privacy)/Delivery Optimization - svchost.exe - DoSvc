@@ -1,73 +1,73 @@
-72.145.35.117   #geo.prod.do.dsp.mp.microsoft.com
-72.145.35.109   #geo.prod.do.dsp.mp.microsoft.com
-72.153.5.136    #geo.prod.do.dsp.mp.microsoft.com
-2.16.153.45     #a2-16-153-45.deploy.static.akamaitechnologies.com
-2.16.153.39     #a2-16-153-39.deploy.static.akamaitechnologies.com
-5.178.43.96     #tlu.dl.delivery.mp.microsoft.com
-2.21.69.17      #a2-21-69-17.deploy.static.akamaitechnologies.com
-72.154.7.111    #geo.prod.do.dsp.mp.microsoft.com
-5.178.43.91     #1d.tlu.dl.delivery.mp.microsoft.com
-72.145.35.112   #geo.prod.do.dsp.mp.microsoft.com
+140.82.114.22   #lb-140-82-114-22-iad.github.com
 146.75.122.172  #1d.tlu.dl.delivery.mp.microsoft.com
-72.153.5.131    #geo.prod.do.dsp.mp.microsoft.com
-72.154.7.100
-93.186.137.219
-5.178.43.74
-93.123.17.252
-72.145.35.105
-72.145.35.102
-72.154.7.16
-195.167.81.5
-195.167.34.50
-195.167.82.226
-195.167.44.101
-93.186.137.208
-199.232.58.172
-93.186.137.176
-5.178.43.83
-195.167.44.98
 146.75.2.172
-93.186.137.200
-5.178.43.106
-5.178.43.97
-195.167.34.53
-195.167.82.227
-195.167.44.100  #ctldl.windowsupdate.com
+195.167.34.50
 195.167.34.51
-195.167.82.228
 195.167.34.52
-195.167.81.2
-195.167.82.229
+195.167.34.53
+195.167.44.100  #ctldl.windowsupdate.com
+195.167.44.101
+195.167.44.98
 195.167.44.99
-5.178.43.90
-5.178.43.98
+195.167.81.2
 195.167.81.3
 195.167.81.4
-72.154.7.106    #geo.prod.do.dsp.mp.microsoft.com
-93.186.137.209  #tlu.dl.delivery.mp.microsoft.com
-93.186.137.203
-93.186.137.226
-93.186.137.210  #tlu.dl.delivery.mp.microsoft.com
-93.186.137.202  #tlu.dl.delivery.mp.microsoft.com
-93.186.137.195  #tlu.dl.delivery.mp.microsoft.com
-93.186.137.179
-93.186.137.249
-5.178.43.81
-72.153.5.135    #geo.prod.do.dsp.mp.microsoft.com
-93.186.137.216
-140.82.114.22   #lb-140-82-114-22-iad.github.com
-72.154.7.112    #geo.prod.do.dsp.mp.microsoft.com
-72.153.5.134    #geo.prod.do.dsp.mp.microsoft.com
-72.154.7.103
-72.154.7.97     #geo.prod.do.dsp.mp.microsoft.com
-72.153.5.96     #geo.prod.do.dsp.mp.microsoft.com
-72.153.5.62
-72.145.35.96    #geo.prod.do.dsp.mp.microsoft.com
-72.145.35.100   #geo.prod.do.dsp.mp.microsoft.com
-2.20.94.55      #a2-20-94-55.deploy.static.akamaitechnologies.com
+195.167.81.5
+195.167.82.226
+195.167.82.227
+195.167.82.228
+195.167.82.229
+199.232.58.172
+2.16.153.39     #a2-16-153-39.deploy.static.akamaitechnologies.com
+2.16.153.45     #a2-16-153-45.deploy.static.akamaitechnologies.com
+2.16.220.26
 2.20.92.38      #a2-20-92-38.deploy.static.akamaitechnologies.com
+2.20.94.55      #a2-20-94-55.deploy.static.akamaitechnologies.com
 2.21.64.175     #a2-21-64-175.deploy.static.akamaitechnologies.com
 2.21.64.178
-2.16.220.26
+2.21.69.17      #a2-21-69-17.deploy.static.akamaitechnologies.com
+5.178.43.106
+5.178.43.74
+5.178.43.81
+5.178.43.83
+5.178.43.90
+5.178.43.91     #1d.tlu.dl.delivery.mp.microsoft.com
+5.178.43.96     #tlu.dl.delivery.mp.microsoft.com
+5.178.43.97
+5.178.43.98
+72.145.35.100   #geo.prod.do.dsp.mp.microsoft.com
+72.145.35.102
+72.145.35.105
+72.145.35.109   #geo.prod.do.dsp.mp.microsoft.com
+72.145.35.112   #geo.prod.do.dsp.mp.microsoft.com
 72.145.35.114
+72.145.35.117   #geo.prod.do.dsp.mp.microsoft.com
+72.145.35.96    #geo.prod.do.dsp.mp.microsoft.com
 72.145.35.97
+72.153.5.131    #geo.prod.do.dsp.mp.microsoft.com
+72.153.5.134    #geo.prod.do.dsp.mp.microsoft.com
+72.153.5.135    #geo.prod.do.dsp.mp.microsoft.com
+72.153.5.136    #geo.prod.do.dsp.mp.microsoft.com
+72.153.5.62
+72.153.5.96     #geo.prod.do.dsp.mp.microsoft.com
+72.154.7.100
+72.154.7.103
+72.154.7.106    #geo.prod.do.dsp.mp.microsoft.com
+72.154.7.111    #geo.prod.do.dsp.mp.microsoft.com
+72.154.7.112    #geo.prod.do.dsp.mp.microsoft.com
+72.154.7.16
+72.154.7.97     #geo.prod.do.dsp.mp.microsoft.com
+93.123.17.252
+93.186.137.176
+93.186.137.179
+93.186.137.195  #tlu.dl.delivery.mp.microsoft.com
+93.186.137.200
+93.186.137.202  #tlu.dl.delivery.mp.microsoft.com
+93.186.137.203
+93.186.137.208
+93.186.137.209  #tlu.dl.delivery.mp.microsoft.com
+93.186.137.210  #tlu.dl.delivery.mp.microsoft.com
+93.186.137.216
+93.186.137.219
+93.186.137.226
+93.186.137.249

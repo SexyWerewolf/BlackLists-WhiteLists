@@ -1,32 +1,32 @@
-2.22.245.226    #a2-22-245-226.deploy.static.akamaitechnologies.com
-2.22.245.200    #a2-22-245-200.deploy.static.akamaitechnologies.com
-2.22.245.186    #a2-22-245-186.deploy.static.akamaitechnologies.com
-2.22.245.147    #a2-22-245-147.deploy.static.akamaitechnologies.com
-2.22.245.138    #a2-22-245-138.deploy.static.akamaitechnologies.com
-2.22.245.208    #a2-22-245-208.deploy.static.akamaitechnologies.com
-2.22.245.210    #a2-22-245-210.deploy.static.akamaitechnologies.com
-2.22.245.218    #a2-22-245-218.deploy.static.akamaitechnologies.com
-2.22.245.209    #a2-22-245-209.deploy.static.akamaitechnologies.com
-2.22.245.187    #a2-22-245-187.deploy.static.akamaitechnologies.com
-20.103.156.88   #fd.api.iris.microsoft.com
-2.19.51.10      #a2-19-51-10.deploy.static.akamaitechnologies.com
-2.22.245.243    #a2-22-245-243.deploy.static.akamaitechnologies.com
-2.22.245.211    #a2-22-245-211.deploy.static.akamaitechnologies.com
-2.19.51.17      #a2-19-51-17.deploy.static.akamaitechnologies.com
-20.31.169.57
-20.223.35.26
-2.22.245.195    #a2-22-245-195.deploy.static.akamaitechnologies.com
-2.22.245.161
-20.74.47.205
-20.223.36.55
-20.199.58.43    #fd.api.iris.microsoft.com
-2.16.222.49     #a2-16-222-49.deploy.static.akamaitechnologies.com
-2.22.245.176    #a2-22-245-176.deploy.static.akamaitechnologies.com
-2.22.245.203    #a2-22-245-203.deploy.static.akamaitechnologies.com
-2.22.245.171    #a2-22-245-171.deploy.static.akamaitechnologies.com
-2.19.51.8       #a2-19-51-8.deploy.static.akamaitechnologies.com
 140.82.121.3    #lb-140-82-121-3-fra.github.com
-93.123.17.252   #ctldl.windowsupdate.com
-2.22.245.153    #a2-22-245-153.deploy.static.akamaitechnologies.com
-20.74.19.45
+2.16.222.49     #a2-16-222-49.deploy.static.akamaitechnologies.com
+2.19.51.10      #a2-19-51-10.deploy.static.akamaitechnologies.com
+2.19.51.17      #a2-19-51-17.deploy.static.akamaitechnologies.com
+2.19.51.8       #a2-19-51-8.deploy.static.akamaitechnologies.com
+2.22.245.138    #a2-22-245-138.deploy.static.akamaitechnologies.com
+2.22.245.147    #a2-22-245-147.deploy.static.akamaitechnologies.com
 2.22.245.152    #a2-22-245-152.deploy.static.akamaitechnologies.com
+2.22.245.153    #a2-22-245-153.deploy.static.akamaitechnologies.com
+2.22.245.161
+2.22.245.171    #a2-22-245-171.deploy.static.akamaitechnologies.com
+2.22.245.176    #a2-22-245-176.deploy.static.akamaitechnologies.com
+2.22.245.186    #a2-22-245-186.deploy.static.akamaitechnologies.com
+2.22.245.187    #a2-22-245-187.deploy.static.akamaitechnologies.com
+2.22.245.195    #a2-22-245-195.deploy.static.akamaitechnologies.com
+2.22.245.200    #a2-22-245-200.deploy.static.akamaitechnologies.com
+2.22.245.203    #a2-22-245-203.deploy.static.akamaitechnologies.com
+2.22.245.208    #a2-22-245-208.deploy.static.akamaitechnologies.com
+2.22.245.209    #a2-22-245-209.deploy.static.akamaitechnologies.com
+2.22.245.210    #a2-22-245-210.deploy.static.akamaitechnologies.com
+2.22.245.211    #a2-22-245-211.deploy.static.akamaitechnologies.com
+2.22.245.218    #a2-22-245-218.deploy.static.akamaitechnologies.com
+2.22.245.226    #a2-22-245-226.deploy.static.akamaitechnologies.com
+2.22.245.243    #a2-22-245-243.deploy.static.akamaitechnologies.com
+20.103.156.88   #fd.api.iris.microsoft.com
+20.199.58.43    #fd.api.iris.microsoft.com
+20.223.35.26
+20.223.36.55
+20.31.169.57
+20.74.19.45
+20.74.47.205
+93.123.17.252   #ctldl.windowsupdate.com

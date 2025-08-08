@@ -1,56 +1,57 @@
-135.236.136.109 #licensing.mp.microsoft.com
-135.236.137.174 #licensing.mp.microsoft.com
-135.236.137.147 #licensing.mp.microsoft.com
+13.107.246.60   #storecatalogrevocation.storequality.microsoft.com
 13.107.253.72   #storecatalogrevocation.storequality.microsoft.com
-20.190.177.19
-20.190.147.9
-20.190.177.23
-20.190.147.10
-20.190.147.1
-20.190.147.3
-20.190.177.82
-20.190.147.4    #login.live.com
-20.190.147.11   #login.live.com
-20.190.147.2    #login.live.com
-20.190.177.21   #login.live.com
-20.190.177.147
-20.190.181.4
-20.190.147.6
-20.190.147.12
-20.190.177.149
-20.190.147.0
-20.190.177.83   #login.live.com
-20.190.147.8
-20.190.181.0
-20.190.177.146
-20.190.177.148  #login.live.com
+135.236.136.109 #licensing.mp.microsoft.com
+135.236.137.147 #licensing.mp.microsoft.com
+135.236.137.174 #licensing.mp.microsoft.com
 173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
-20.190.181.1    #login.live.com
-40.126.53.12
-20.231.128.65
-40.126.53.8
-20.190.181.6
-40.126.53.15
-40.126.53.10
-20.190.147.7    #login.live.com
+20.190.147.0
+20.190.147.1
+20.190.147.10
+20.190.147.11   #login.live.com
+20.190.147.12
+20.190.147.2    #login.live.com
+20.190.147.3
+20.190.147.4    #login.live.com
 20.190.147.5    #login.live.com
-20.190.177.22   #login.live.com
-40.126.53.17    #login.live.com
-40.126.53.18    #login.live.com
-20.190.181.2    #login.live.com
-20.231.128.66   #login.live.com
-40.126.53.6     #login.live.com
-40.126.53.11    #login.live.com
+20.190.147.6
+20.190.147.7    #login.live.com
+20.190.147.8
+20.190.147.9
+20.190.177.146
+20.190.177.147
+20.190.177.148  #login.live.com
+20.190.177.149
+20.190.177.19
 20.190.177.20   #login.live.com
-40.126.53.13    #login.live.com
-20.190.181.5
+20.190.177.21   #login.live.com
+20.190.177.22   #login.live.com
+20.190.177.23
+20.190.177.82
+20.190.177.83   #login.live.com
 20.190.177.85
+20.190.181.0
+20.190.181.1    #login.live.com
+20.190.181.2    #login.live.com
 20.190.181.23
 20.190.181.3
+20.190.181.4
+20.190.181.5
+20.190.181.6
+20.231.128.65
+20.231.128.66   #login.live.com
 20.231.128.67
-40.126.53.7
-40.126.53.9
+40.126.53.10
+40.126.53.11    #login.live.com
+40.126.53.12
+40.126.53.13    #login.live.com
+40.126.53.14
+40.126.53.15
+40.126.53.16    #login.live.com
+40.126.53.17    #login.live.com
+40.126.53.18    #login.live.com
 40.126.53.19
 40.126.53.21
-40.126.53.14
-40.126.53.16    #login.live.com
+40.126.53.6     #login.live.com
+40.126.53.7
+40.126.53.8
+40.126.53.9
