@@ -1,7 +1,10 @@
 104.122.213.129 #a104-122-213-129.deploy.static.akamaitechnologies.com
 104.122.213.56  #a104-122-213-56.deploy.static.akamaitechnologies.com
+142.250.184.131 #sof02s43-in-f3.1e100.net
+146.75.118.172
 146.75.122.172
 146.75.2.172    #ctldl.windowsupdate.com
+151.101.62.172
 18.244.87.35    #server-18-244-87-35.sof50.r.cloudfront.net
 18.244.87.4     #ocsps.ssl.com
 18.244.87.45    #ocsps.ssl.com
@@ -22,15 +25,30 @@
 195.167.82.227  #ctldl.windowsupdate.com
 195.167.82.228
 195.167.82.229  #ctldl.windowsupdate.com
+199.232.210.172
 199.232.58.172
+2.19.51.120     #a2-19-51-120.deploy.static.akamaitechnologies.com
+2.19.51.131
+2.19.51.26      #a2-19-51-26.deploy.static.akamaitechnologies.com
 2.19.51.52      #crl.certum.pl
+2.19.51.53
 2.19.51.62      #a2-19-51-62.deploy.static.akamaitechnologies.com
+2.19.51.69      #a2-19-51-69.deploy.static.akamaitechnologies.com
+2.19.51.78      #a2-19-51-78.deploy.static.akamaitechnologies.com
+2.19.51.93      #a2-19-51-93.deploy.static.akamaitechnologies.com
 204.79.197.203  #a-0003.a-msedge.net
 216.58.212.35   #sof04s02-in-f3.1e100.net
 5.178.43.106    #ctldl.windowsupdate.com
 5.178.43.74
 5.178.43.81     #ctldl.windowsupdate.com
 5.178.43.97     #ctldl.windowsupdate.com
+5.178.43.98
+5.178.43.99     #crl.microsoft.com
 93.123.17.252
+93.186.137.176
+93.186.137.177  #ctldl.windowsupdate.com
+93.186.137.179
+93.186.137.216  #ctldl.windowsupdate.com
 93.186.137.219  #ctldl.windowsupdate.com
 93.186.137.226
+93.186.137.249  #ctldl.windowsupdate.com
