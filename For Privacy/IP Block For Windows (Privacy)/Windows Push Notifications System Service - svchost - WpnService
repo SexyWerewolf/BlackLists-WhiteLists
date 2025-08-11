@@ -4,6 +4,8 @@
 172.166.106.148 #client.wns.windows.com
 172.167.2.3     #client.wns.windows.com
 172.167.33.55   #client.wns.windows.com
+20.190.144.165  #login.live.com
+20.190.144.166  #login.live.com
 20.190.147.0
 20.190.147.1
 20.190.147.10
@@ -17,6 +19,23 @@
 20.190.147.7
 20.190.147.8    #login.live.com
 20.190.147.9    #login.live.com
+20.190.148.162  #login.live.com
+20.190.148.163
+20.190.148.164  #login.live.com
+20.190.151.131  #login.live.com
+20.190.151.132
+20.190.151.133  #login.live.com
+20.190.151.134  #login.live.com
+20.190.151.6    #login.live.com
+20.190.151.67   #login.live.com
+20.190.151.68   #login.live.com
+20.190.151.69   #login.live.com
+20.190.151.7
+20.190.151.70   #login.live.com
+20.190.151.8
+20.190.151.9    #login.live.com
+20.190.157.14
+20.190.163.18   #login.live.com
 20.190.177.146
 20.190.177.147
 20.190.177.148  #login.live.com
@@ -38,10 +57,28 @@
 20.190.181.4    #login.live.com
 20.190.181.5    #login.live.com
 20.190.181.6
+20.190.190.129  #login.live.com
+20.190.190.130  #login.live.com
+20.190.190.131  #login.live.com
+20.190.190.132
+20.190.190.193
+20.190.190.194  #login.live.com
+20.190.190.195  #login.live.com
+20.190.190.196
 20.231.128.65   #login.live.com
 20.231.128.66   #login.live.com
 20.231.128.67   #login.live.com
+40.126.16.163   #login.live.com
+40.126.16.164   #login.live.com
+40.126.16.166   #login.live.com
 40.126.31.3
+40.126.35.128   #login.live.com
+40.126.35.129   #login.live.com
+40.126.35.144   #login.live.com
+40.126.35.150
+40.126.35.21    #login.live.com
+40.126.35.64    #login.live.com
+40.126.35.80    #login.live.com
 40.126.53.10    #login.live.com
 40.126.53.11
 40.126.53.12    #login.live.com
@@ -57,4 +94,8 @@
 40.126.53.7     #login.live.com
 40.126.53.8
 40.126.53.9
+40.126.62.129   #login.live.com
+40.126.62.130   #login.live.com
+40.126.62.131   #login.live.com
+40.126.62.132   #login.live.com
 5.178.43.97

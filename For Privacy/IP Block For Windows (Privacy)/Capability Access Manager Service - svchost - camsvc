@@ -7,6 +7,7 @@
 108.138.36.22   #ocsps.ssl.com
 108.138.36.51   #server-108-138-36-51.muc50.r.cloudfront.net
 108.138.36.71   #server-108-138-36-71.muc50.r.cloudfront.net
+109.61.38.38
 142.250.187.99  #sof02s44-in-f3.1e100.net
 146.75.122.172  #ctldl.windowsupdate.com
 146.75.2.133    #ocsp2.globalsign.com
@@ -41,6 +42,7 @@
 195.167.82.228
 195.167.82.229
 199.232.170.172
+199.232.38.133
 199.232.58.172
 2.19.51.10      #a2-19-51-10.deploy.static.akamaitechnologies.com
 2.19.51.115     #a2-19-51-115.deploy.static.akamaitechnologies.com
@@ -61,8 +63,10 @@
 204.79.197.203  #a-0003.a-msedge.net
 216.58.212.3    #sof04s01-in-f3.1e100.net
 216.58.212.35   #sof02s18-in-f3.1e100.net
+23.203.176.221  #a23-203-176-221.deploy.static.akamaitechnologies.com
 23.40.158.218   #a23-40-158-218.deploy.static.akamaitechnologies.com
 23.51.98.7      #ocsp.digicert.com
+43.174.32.224   #ctldl.windowsupdate.com
 5.178.43.106
 5.178.43.74
 5.178.43.81     #ctldl.windowsupdate.com
