@@ -5,6 +5,7 @@
 108.141.37.120
 146.75.2.133    #ocsp2.globalsign.com
 172.205.25.163
+172.205.80.42   #nav.smartscreen.microsoft.com
 172.211.159.152
 172.64.149.23
 195.167.34.52   #ctldl.windowsupdate.com
@@ -18,6 +19,7 @@
 2.19.51.62      #crl.certum.pl
 2.19.51.78      #a2-19-51-78.deploy.static.akamaitechnologies.com
 20.56.187.20
+20.82.9.214
 20.82.9.214     #nav.smartscreen.microsoft.com
 20.93.72.182
 204.79.197.203  #a-0003.a-msedge.net

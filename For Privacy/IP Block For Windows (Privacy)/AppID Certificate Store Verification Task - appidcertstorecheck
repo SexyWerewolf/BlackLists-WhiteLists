@@ -1,5 +1,8 @@
 109.61.38.38
+140.82.112.21   #lb-140-82-112-21-iad.github.com
 140.82.121.4    #lb-140-82-121-4-fra.github.com
+142.250.187.155 #sof02s45-in-f27.1e100.net
+146.75.118.172  #ctldl.windowsupdate.com
 146.75.122.172  #ctldl.windowsupdate.com
 146.75.2.172
 146.75.46.172   #ctldl.windowsupdate.com
@@ -22,15 +25,22 @@
 199.232.170.172 #ctldl.windowsupdate.com
 199.232.38.172  #ctldl.windowsupdate.com
 199.232.58.172
+2.21.69.10      #a2-21-69-10.deploy.static.akamaitechnologies.com
+2.21.69.25      #a2-21-69-25.deploy.static.akamaitechnologies.com
+2.23.231.157    #ctldl.windowsupdate.com
+2.23.231.161    #a2-23-231-161.deploy.static.akamaitechnologies.com
 20.199.58.43    #fd.api.iris.microsoft.com
+5.178.43.105
 5.178.43.106
 5.178.43.74     #ctldl.windowsupdate.com
 5.178.43.81     #ctldl.windowsupdate.com
+5.178.43.89
 5.178.43.97     #ctldl.windowsupdate.com
 74.178.76.128
 93.123.17.252
 93.186.137.176  #ctldl.windowsupdate.com
 93.186.137.177
+93.186.137.178
 93.186.137.179  #ctldl.windowsupdate.com
 93.186.137.216  #ctldl.windowsupdate.com
 93.186.137.219  #ctldl.windowsupdate.com

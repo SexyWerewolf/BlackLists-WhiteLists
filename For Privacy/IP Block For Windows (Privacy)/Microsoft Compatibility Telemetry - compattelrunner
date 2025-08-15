@@ -5,12 +5,18 @@
 146.75.2.133    #ocsp2.globalsign.com
 172.184.231.68  #fe2cr.update.microsoft.com
 173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
+184.31.68.248   #a184-31-68-248.deploy.static.akamaitechnologies.com
 195.167.34.53
+195.167.44.98
 195.167.81.3    #ctldl.windowsupdate.com
 195.167.81.4    #ctldl.windowsupdate.com
 195.167.82.226  #ctldl.windowsupdate.com
 195.167.82.228
+199.232.38.172
 199.232.58.172
+199.232.90.172
+20.106.86.13
+20.44.239.154
 20.73.194.208   #settings-win.data.microsoft.com
 23.40.158.218   #a23-40-158-218.deploy.static.akamaitechnologies.com
 23.40.158.98    #a23-40-158-98.deploy.static.akamaitechnologies.com
@@ -22,3 +28,4 @@
 51.104.136.2
 51.124.78.146   #settings-win.data.microsoft.com
 93.186.137.219
+93.186.137.249  #ctldl.windowsupdate.com
