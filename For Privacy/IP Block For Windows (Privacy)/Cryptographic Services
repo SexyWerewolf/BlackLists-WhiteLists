@@ -1,17 +1,25 @@
 104.122.213.129 #a104-122-213-129.deploy.static.akamaitechnologies.com
 104.122.213.56  #a104-122-213-56.deploy.static.akamaitechnologies.com
 104.18.38.233
+104.78.173.167  #a104-78-173-167.deploy.static.akamaitechnologies.com
 109.61.38.38
+142.250.178.195 #pnzrha-aj-in-f3.1e100.net
 142.250.184.131 #sof02s43-in-f3.1e100.net
 142.251.107.94  #uj-in-f94.1e100.net
 142.251.140.3   #sof04s04-in-f3.1e100.net
+142.251.30.94   #sv-in-f94.1e100.net
 146.75.118.172
 146.75.122.172
 146.75.2.172    #ctldl.windowsupdate.com
 146.75.46.172
 151.101.62.172
 172.64.149.23   #crt.sectigo.com
+173.222.12.247  #a173-222-12-247.deploy.static.akamaitechnologies.com
 173.222.13.40   #a173-222-13-40.deploy.static.akamaitechnologies.com
+18.239.36.33    #server-18-239-36-33.ams58.r.cloudfront.net
+18.239.36.38
+18.239.36.49    #server-18-239-36-49.ams58.r.cloudfront.net
+18.239.36.7     #server-18-239-36-7.ams58.r.cloudfront.net
 18.244.87.35    #server-18-244-87-35.sof50.r.cloudfront.net
 18.244.87.4     #server-18-244-87-4.sof50.r.cloudfront.net
 18.244.87.45    #server-18-244-87-45.sof50.r.cloudfront.net
@@ -19,6 +27,7 @@
 184.50.205.65   #a184-50-205-65.deploy.static.akamaitechnologies.com
 184.50.206.160  #a184-50-206-160.deploy.static.akamaitechnologies.com
 195.167.34.50   #ctldl.windowsupdate.com
+195.167.34.51
 195.167.34.51   #ctldl.windowsupdate.com
 195.167.34.52
 195.167.34.53
@@ -41,6 +50,9 @@
 2.16.19.9       #a2-16-19-9.deploy.static.akamaitechnologies.com
 2.16.221.58
 2.16.222.22     #a2-16-222-22.deploy.static.akamaitechnologies.com
+2.18.63.34      #a2-18-63-34.deploy.static.akamaitechnologies.com
+2.18.63.37      #a2-18-63-37.deploy.static.akamaitechnologies.com
+2.18.63.64      #a2-18-63-64.deploy.static.akamaitechnologies.com
 2.19.51.112     #crl.certum.pl
 2.19.51.120     #a2-19-51-120.deploy.static.akamaitechnologies.com
 2.19.51.131
@@ -76,6 +88,7 @@
 23.193.201.8    #a23-193-201-8.deploy.static.akamaitechnologies.com
 23.200.3.18     #a23-200-3-18.deploy.static.akamaitechnologies.com
 23.207.193.8    #a23-207-193-8.deploy.static.akamaitechnologies.com
+23.209.209.135  #a23-209-209-135.deploy.static.akamaitechnologies.com
 23.210.73.5     #a23-210-73-5.deploy.static.akamaitechnologies.com
 23.210.73.6     #a23-210-73-6.deploy.static.akamaitechnologies.com
 23.216.136.238  #a23-216-136-238.deploy.static.akamaitechnologies.com
@@ -120,6 +133,18 @@
 5.178.43.98
 5.178.43.99     #crl.microsoft.com
 74.125.200.94   #sa-in-f94.1e100.net
+84.201.209.101  #ctldl.windowsupdate.com
+84.201.209.102
+84.201.209.105
+84.201.209.106
+84.201.209.107
+84.201.209.66
+84.201.209.67
+84.201.209.71
+84.201.209.72
+84.201.209.73
+84.201.209.98
+84.201.209.99
 93.123.17.252
 93.186.137.152  #ctldl.windowsupdate.com
 93.186.137.153

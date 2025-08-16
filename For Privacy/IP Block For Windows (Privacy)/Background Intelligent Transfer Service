@@ -2,6 +2,10 @@
 108.177.11.207  #storage.googleapis.com
 108.177.12.207  #ua-in-f207.1e100.net
 13.89.178.26
+142.250.117.136
+142.250.117.190 #um-in-f190.1e100.net
+142.250.117.91  #um-in-f91.1e100.net
+142.250.117.93  #um-in-f93.1e100.net
 142.250.184.155 #storage.googleapis.com
 142.250.187.123 #storage.googleapis.com
 142.250.187.187 #storage.googleapis.com
@@ -11,8 +15,17 @@
 142.251.140.27  #sof04s04-in-f27.1e100.net
 142.251.140.46  #sof04s05-in-f14.1e100.net
 142.251.140.59  #storage.googleapis.com
+142.251.140.78  #sof04s06-in-f14.1e100.net
 142.251.140.91  #storage.googleapis.com
 142.251.141.59  #storage.googleapis.com
+142.251.30.100  #sv-in-f100.1e100.net
+142.251.30.101  #sv-in-f101.1e100.net
+142.251.30.102  #sv-in-f102.1e100.net
+142.251.30.113  #sv-in-f113.1e100.net
+142.251.30.138  #sv-in-f138.1e100.net
+142.251.30.139  #sv-in-f139.1e100.net
+172.217.168.68  #zrh04s15-in-f4.1e100.net
+172.217.168.78  #zrh04s15-in-f14.1e100.net
 172.217.169.187 #storage.googleapis.com
 172.217.169.219 #storage.googleapis.com
 172.217.17.123  #storage.googleapis.com
@@ -39,6 +52,7 @@
 216.58.213.123  #storage.googleapis.com
 216.58.214.155  #storage.googleapis.com
 23.205.30.159
+23.214.158.178  #a23-214-158-178.deploy.static.akamaitechnologies.com
 23.221.201.236  #a23-221-201-236.deploy.static.akamaitechnologies.com
 23.39.73.91     #a23-39-73-91.deploy.static.akamaitechnologies.com
 23.50.189.250   #a23-50-189-250.deploy.static.akamaitechnologies.com

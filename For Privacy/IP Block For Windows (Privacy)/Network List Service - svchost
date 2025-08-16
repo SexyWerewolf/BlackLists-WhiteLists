@@ -1,9 +1,14 @@
 2.16.168.101    #a2-16-168-101.deploy.static.akamaitechnologies.com
 2.16.168.102    #a2-16-168-102.deploy.static.akamaitechnologies.com
+2.16.55.200     #a2-16-55-200.deploy.static.akamaitechnologies.com
+2.16.55.209
 2.16.55.215     #a2-16-55-215.deploy.static.akamaitechnologies.com
 2.16.55.222     #a2-16-55-222.deploy.static.akamaitechnologies.com
 2.19.117.157    #a2-19-117-157.deploy.static.akamaitechnologies.com
 2.19.117.164    #a2-19-117-164.deploy.static.akamaitechnologies.com
+23.200.3.27     #a23-200-3-27.deploy.static.akamaitechnologies.com
+23.200.3.31     #a23-200-3-31.deploy.static.akamaitechnologies.com
+23.200.3.73     #a23-200-3-73.deploy.static.akamaitechnologies.com
 23.202.61.109
 23.202.61.118
 23.218.218.137  #a23-218-218-137.deploy.static.akamaitechnologies.com
@@ -47,4 +52,5 @@
 5.178.43.107
 5.178.43.112
 5.178.43.97
+89.249.74.40
 93.186.137.224
