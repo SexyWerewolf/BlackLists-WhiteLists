@@ -4,10 +4,15 @@
 2.16.55.209
 2.16.55.215     #a2-16-55-215.deploy.static.akamaitechnologies.com
 2.16.55.222     #a2-16-55-222.deploy.static.akamaitechnologies.com
+2.19.117.143    #a2-19-117-143.deploy.static.akamaitechnologies.com
 2.19.117.157    #a2-19-117-157.deploy.static.akamaitechnologies.com
 2.19.117.164    #a2-19-117-164.deploy.static.akamaitechnologies.com
+23.200.3.17     #a23-200-3-17.deploy.static.akamaitechnologies.com
 23.200.3.27     #a23-200-3-27.deploy.static.akamaitechnologies.com
 23.200.3.31     #a23-200-3-31.deploy.static.akamaitechnologies.com
+23.200.3.33     #a23-200-3-33.deploy.static.akamaitechnologies.com
+23.200.3.5      #a23-200-3-5.deploy.static.akamaitechnologies.com
+23.200.3.7      #a23-200-3-7.deploy.static.akamaitechnologies.com
 23.200.3.73     #a23-200-3-73.deploy.static.akamaitechnologies.com
 23.202.61.109
 23.202.61.118
@@ -25,9 +30,12 @@
 23.218.218.190  #www.msftncsi.com
 23.219.36.101   #a23-219-36-101.deploy.static.akamaitechnologies.com
 23.219.36.102   #a23-219-36-102.deploy.static.akamaitechnologies.com
+23.219.36.106   #a23-219-36-106.deploy.static.akamaitechnologies.com
 23.219.36.108   #a23-219-36-108.deploy.static.akamaitechnologies.com
 23.221.236.133
 23.221.236.140  #a23-221-236-140.deploy.static.akamaitechnologies.com
+23.44.129.39    #www.msftconnecttest.com
+23.44.129.57    #a23-44-129-57.deploy.static.akamaitechnologies.com
 23.44.131.12    #a23-44-131-12.deploy.static.akamaitechnologies.com
 23.44.131.19    #www.msftconnecttest.com
 23.44.131.20    #a23-44-131-20.deploy.static.akamaitechnologies.com

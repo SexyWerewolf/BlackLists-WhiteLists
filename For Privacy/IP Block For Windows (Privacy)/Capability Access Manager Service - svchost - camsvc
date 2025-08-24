@@ -4,6 +4,7 @@
 104.18.21.226
 104.18.38.233   #ocsp.comodoca.com.cdn.cloudflare.net
 104.78.173.167  #a104-78-173-167.deploy.static.akamaitechnologies.com
+104.83.138.254  #a104-83-138-254.deploy.static.akamaitechnologies.com
 108.138.36.12   #server-108-138-36-12.muc50.r.cloudfront.net
 108.138.36.22   #ocsps.ssl.com
 108.138.36.51   #server-108-138-36-51.muc50.r.cloudfront.net
@@ -71,6 +72,7 @@
 2.22.245.241    #a2-22-245-241.deploy.static.akamaitechnologies.com
 2.22.98.7       #a2-22-98-7.deploy.static.akamaitechnologies.com
 204.79.197.203  #a-0003.a-msedge.net
+208.89.73.21
 216.58.212.3    #sof04s01-in-f3.1e100.net
 216.58.212.35   #sof02s18-in-f3.1e100.net
 23.203.176.221  #a23-203-176-221.deploy.static.akamaitechnologies.com
@@ -85,6 +87,8 @@
 5.178.43.81     #ctldl.windowsupdate.com
 5.178.43.97     #ctldl.windowsupdate.com
 84.201.209.100
+92.223.40.62
+92.38.168.14
 93.123.17.252
 93.186.137.136
 93.186.137.176  #ctldl.windowsupdate.com

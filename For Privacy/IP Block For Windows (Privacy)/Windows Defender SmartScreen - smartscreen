@@ -4,6 +4,8 @@
 108.141.15.7
 108.141.37.120
 146.75.2.133    #ocsp2.globalsign.com
+150.171.22.17   #config.edge.skype.com
+172.165.69.228
 172.205.25.163
 172.205.80.42   #nav.smartscreen.microsoft.com
 172.211.159.152
@@ -11,6 +13,7 @@
 195.167.34.52   #ctldl.windowsupdate.com
 195.167.81.3    #ctldl.windowsupdate.com
 195.167.82.227
+199.232.58.133
 199.232.58.172
 2.16.189.232    #a2-16-189-232.deploy.static.akamaitechnologies.com
 2.19.51.115     #a2-19-51-115.deploy.static.akamaitechnologies.com
@@ -32,5 +35,11 @@
 48.209.164.47
 48.209.180.244
 51.137.3.145
+52.123.240.108
+52.123.240.144
+52.123.240.32
+52.123.240.62
+52.123.240.64
+52.123.240.84
 93.186.137.219  #ctldl.windowsupdate.com
 98.64.238.3

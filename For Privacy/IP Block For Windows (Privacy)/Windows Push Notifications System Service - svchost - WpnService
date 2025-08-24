@@ -4,6 +4,9 @@
 172.166.106.148 #client.wns.windows.com
 172.167.2.3     #client.wns.windows.com
 172.167.33.55   #client.wns.windows.com
+172.183.7.192
+172.183.7.193   #wns.notify.trafficmanager.net
+172.183.7.194
 173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
 199.232.58.172
 20.190.144.137

@@ -1,5 +1,8 @@
 109.61.38.38
 140.82.112.21   #lb-140-82-112-21-iad.github.com
+140.82.112.3    #lb-140-82-112-3-iad.github.com
+140.82.113.3    #lb-140-82-113-3-iad.github.com
+140.82.113.4    #github.com
 140.82.121.4    #lb-140-82-121-4-fra.github.com
 142.250.187.155 #sof02s45-in-f27.1e100.net
 146.75.118.172  #ctldl.windowsupdate.com
@@ -8,7 +11,9 @@
 146.75.46.172   #ctldl.windowsupdate.com
 150.171.22.17
 151.101.62.172
+173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
 185.160.60.100
+192.168.2.119
 195.167.34.50   #ctldl.windowsupdate.com
 195.167.34.51
 195.167.34.52   #ctldl.windowsupdate.com
@@ -40,13 +45,34 @@
 2.23.231.157    #ctldl.windowsupdate.com
 2.23.231.161    #a2-23-231-161.deploy.static.akamaitechnologies.com
 20.199.58.43    #fd.api.iris.microsoft.com
+20.223.36.55
+20.26.156.215   #github.com
+20.75.60.91
+208.89.73.17    #ctldl.windowsupdate.com
+208.89.73.19    #ctldl.windowsupdate.com
+208.89.73.21    #ctldl.windowsupdate.com
+208.89.73.23
+208.89.73.25    #ctldl.windowsupdate.com
+208.89.73.27    #ctldl.windowsupdate.com
+208.89.73.29    #ctldl.windowsupdate.com
+208.89.73.31    #ctldl.windowsupdate.com
+23.193.201.36   #a23-193-201-36.deploy.static.akamaitechnologies.com
+23.210.73.5     #a23-210-73-5.deploy.static.akamaitechnologies.com
+23.210.73.6     #a23-210-73-6.deploy.static.akamaitechnologies.com
+23.219.161.71   #a23-219-161-71.deploy.static.akamaitechnologies.com
+3.162.112.111   #server-3-162-112-111.iad61.r.cloudfront.net
+3.162.112.116   #server-3-162-112-116.iad61.r.cloudfront.net
+3.162.112.120   #server-3-162-112-120.iad61.r.cloudfront.net
+3.162.112.90    #server-3-162-112-90.iad61.r.cloudfront.net
 5.178.43.105
 5.178.43.106
 5.178.43.74     #ctldl.windowsupdate.com
 5.178.43.81     #ctldl.windowsupdate.com
 5.178.43.89
 5.178.43.97     #ctldl.windowsupdate.com
+74.178.240.61
 74.178.76.128
+76.76.2.22
 84.201.209.100
 84.201.209.101
 84.201.209.102
@@ -64,6 +90,7 @@
 84.201.209.98
 84.201.209.99
 92.223.40.62
+92.38.168.14
 93.123.17.252
 93.186.137.176  #ctldl.windowsupdate.com
 93.186.137.177

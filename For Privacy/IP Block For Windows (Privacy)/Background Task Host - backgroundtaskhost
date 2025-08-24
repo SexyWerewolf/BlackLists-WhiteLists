@@ -3,6 +3,8 @@
 172.169.87.222
 173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
 2.16.221.156    #a2-16-221-156.deploy.static.akamaitechnologies.com
+2.23.206.133    #a2-23-206-133.deploy.static.akamaitechnologies.com
+20.103.156.88
 20.103.156.88   #fd.api.iris.microsoft.com
 20.105.99.58
 20.165.94.46
@@ -18,11 +20,16 @@
 20.231.128.66   #login.live.com
 20.231.128.67
 20.31.169.57
+20.74.19.45
 20.74.47.205
 20.86.201.138   #fd.api.iris.microsoft.com
+20.96.153.111
 23.205.49.190   #a23-205-49-190.deploy.static.akamaitechnologies.com
 23.219.197.165  #a23-219-197-165.deploy.static.akamaitechnologies.com
 23.222.90.164   #a23-222-90-164.deploy.static.akamaitechnologies.com
+23.41.169.190   #a23-41-169-190.deploy.static.akamaitechnologies.com
+23.51.58.97     #a23-51-58-97.deploy.static.akamaitechnologies.com
+23.96.180.189
 34.104.35.123   #123.35.104.34.bc.googleusercontent.com
 40.126.53.10    #login.live.com
 40.126.53.12    #login.live.com
@@ -34,4 +41,6 @@
 40.126.53.7     #login.live.com
 40.126.53.9     #login.live.com
 40.74.78.229
+5.178.43.113    #a1760.dscd.akamai.net
+5.178.43.90     #a1760.dscd.akamai.net
 93.186.137.219

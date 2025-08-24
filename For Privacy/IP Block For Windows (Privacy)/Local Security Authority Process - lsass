@@ -5,10 +5,13 @@
 146.75.122.172
 146.75.2.172
 172.64.149.23   #ocsp.comodoca.com
+18.165.66.204   #server-18-165-66-204.sof50.r.cloudfront.net
 18.165.72.100   #server-18-165-72-100.sof50.r.cloudfront.net
 18.165.72.116   #server-18-165-72-116.sof50.r.cloudfront.net
 18.165.72.119   #server-18-165-72-119.sof50.r.cloudfront.net
+18.165.72.3     #server-18-165-72-3.sof50.r.cloudfront.net
 18.165.72.54    #server-18-165-72-54.sof50.r.cloudfront.net
+18.165.72.6     #server-18-165-72-6.sof50.r.cloudfront.net
 18.244.79.54    #server-18-244-79-54.sof50.r.cloudfront.net
 18.244.81.145   #server-18-244-81-145.sof50.r.cloudfront.net
 18.244.87.107   #server-18-244-87-107.sof50.r.cloudfront.net
@@ -18,13 +21,19 @@
 18.244.87.55
 195.167.44.100  #ctldl.windowsupdate.com
 195.167.81.5
+199.232.38.172
 199.232.58.172
 23.40.158.218
+3.162.132.199   #server-3-162-132-199.iad61.r.cloudfront.net
+3.167.69.94     #server-3-167-69-94.iad61.r.cloudfront.net
 5.178.43.106
 5.178.43.74
 5.178.43.81
 5.178.43.97
 52.84.115.214   #server-52-84-115-214.sof50.r.cloudfront.net
+52.85.135.6     #server-52-85-135-6.iad50.r.cloudfront.net
+92.223.40.62
 93.123.17.252
 93.186.137.219
 93.186.137.226
+99.84.181.162   #server-99-84-181-162.iad89.r.cloudfront.net
