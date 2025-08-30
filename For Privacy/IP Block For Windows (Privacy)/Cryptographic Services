@@ -5,9 +5,12 @@
 104.70.121.65   #a104-70-121-65.deploy.static.akamaitechnologies.com
 104.76.101.49   #a104-76-101-49.deploy.static.akamaitechnologies.com
 104.76.102.185  #a104-76-102-185.deploy.static.akamaitechnologies.com
+104.76.201.34   #a104-76-201-34.deploy.static.akamaitechnologies.com
+104.76.202.152  #a104-76-202-152.deploy.static.akamaitechnologies.com
 104.78.173.167  #a104-78-173-167.deploy.static.akamaitechnologies.com
 108.156.64.197
 109.61.38.38
+142.250.151.94  #st-in-f94.1e100.net
 142.250.178.195 #pnzrha-aj-in-f3.1e100.net
 142.250.184.131 #sof02s43-in-f3.1e100.net
 142.251.107.94  #uj-in-f94.1e100.net
@@ -19,7 +22,7 @@
 146.75.46.172
 146.75.54.172
 151.101.122.172
-151.101.62.172
+172.217.20.67   #ams15s33-in-f3.1e100.net
 172.64.149.23   #crt.sectigo.com
 173.222.12.247  #a173-222-12-247.deploy.static.akamaitechnologies.com
 173.222.13.40   #a173-222-13-40.deploy.static.akamaitechnologies.com
@@ -27,6 +30,10 @@
 18.238.55.23    #server-18-238-55-23.jfk52.r.cloudfront.net
 18.238.55.66    #server-18-238-55-66.jfk52.r.cloudfront.net
 18.238.55.70    #server-18-238-55-70.jfk52.r.cloudfront.net
+18.239.255.117  #ocsps.ssl.com
+18.239.255.124  #server-18-239-255-124.bud50.r.cloudfront.net
+18.239.255.127  #server-18-239-255-127.bud50.r.cloudfront.net
+18.239.255.58   #ocsps.ssl.com
 18.239.36.33    #server-18-239-36-33.ams58.r.cloudfront.net
 18.239.36.38
 18.239.36.49    #server-18-239-36-49.ams58.r.cloudfront.net
@@ -35,6 +42,7 @@
 18.244.87.4     #server-18-244-87-4.sof50.r.cloudfront.net
 18.244.87.45    #server-18-244-87-45.sof50.r.cloudfront.net
 18.244.87.64    #server-18-244-87-64.sof50.r.cloudfront.net
+184.30.131.245  #a184-30-131-245.deploy.static.akamaitechnologies.com
 184.31.68.248
 184.50.205.65   #a184-50-205-65.deploy.static.akamaitechnologies.com
 184.50.206.160  #a184-50-206-160.deploy.static.akamaitechnologies.com
@@ -60,6 +68,7 @@
 199.232.38.172
 199.232.54.172
 199.232.58.172
+2.16.189.232    #a2-16-189-232.deploy.static.akamaitechnologies.com
 2.16.19.81      #a2-16-19-81.deploy.static.akamaitechnologies.com
 2.16.19.9       #a2-16-19-9.deploy.static.akamaitechnologies.com
 2.16.221.58
@@ -85,6 +94,9 @@
 2.20.61.129     #a2-20-61-129.deploy.static.akamaitechnologies.com
 2.20.61.56      #a2-20-61-56.deploy.static.akamaitechnologies.com
 2.21.105.45     #a2-21-105-45.deploy.static.akamaitechnologies.com
+2.21.64.146     #a2-21-64-146.deploy.static.akamaitechnologies.com
+2.21.64.187     #a2-21-64-187.deploy.static.akamaitechnologies.com
+2.21.69.10      #a2-21-69-10.deploy.static.akamaitechnologies.com
 2.21.69.209     #a2-21-69-209.deploy.static.akamaitechnologies.com
 2.21.69.57
 2.22.245.203    #a2-22-245-203.deploy.static.akamaitechnologies.com
@@ -100,6 +112,7 @@
 208.89.73.27
 208.89.73.29
 208.89.73.31
+216.58.212.3
 216.58.212.35   #sof04s02-in-f3.1e100.net
 23.193.201.203
 23.193.201.36   #a23-193-201-36.deploy.static.akamaitechnologies.com
@@ -140,6 +153,7 @@
 23.38.74.33     #a23-38-74-33.deploy.static.akamaitechnologies.com
 23.39.37.29     #a23-39-37-29.deploy.static.akamaitechnologies.com
 23.39.37.95     #a23-39-37-95.deploy.static.akamaitechnologies.com
+23.40.158.218   #e3913.cd.akamaiedge.net
 23.46.224.249   #a23-46-224-249.deploy.static.akamaitechnologies.com
 23.46.226.182   #a23-46-226-182.deploy.static.akamaitechnologies.com
 23.46.230.142   #a23-46-230-142.deploy.static.akamaitechnologies.com
@@ -155,6 +169,7 @@
 3.162.103.62    #server-3-162-103-62.iad61.r.cloudfront.net
 3.162.103.86    #server-3-162-103-86.iad61.r.cloudfront.net
 3.162.103.91    #server-3-162-103-91.iad61.r.cloudfront.net
+3.174.230.47    #server-3-174-230-47.waw51.r.cloudfront.net
 43.174.32.150   #ctldl.windowsupdate.com
 43.174.32.193   #ctldl.windowsupdate.com
 43.174.32.211   #ctldl.windowsupdate.com
@@ -173,6 +188,9 @@
 5.178.43.97     #ctldl.windowsupdate.com
 5.178.43.98
 5.178.43.99     #crl.microsoft.com
+65.9.189.21     #ocsps.ssl.com
+65.9.189.47     #ocsps.ssl.com
+65.9.189.61     #server-65-9-189-61.zag50.r.cloudfront.net
 74.125.196.94   #uk-in-f94.1e100.net
 74.125.200.94   #sa-in-f94.1e100.net
 84.201.209.100

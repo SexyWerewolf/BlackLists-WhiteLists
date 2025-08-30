@@ -9,6 +9,7 @@ a104-70-121-40.deploy.static.akamaitechnologies.com
 a104-70-121-65.deploy.static.akamaitechnologies.com
 a104-76-101-49.deploy.static.akamaitechnologies.com
 a104-76-102-185.deploy.static.akamaitechnologies.com
+a104-76-202-152.deploy.static.akamaitechnologies.com
 a104-78-173-167.deploy.static.akamaitechnologies.com
 a104-82-247-32.deploy.static.akamaitechnologies.com
 a104-83-138-254.deploy.static.akamaitechnologies.com
@@ -22,6 +23,7 @@ a184-30-54-132.deploy.static.akamaitechnologies.com
 a184-31-68-248.deploy.static.akamaitechnologies.com
 a184-50-205-65.deploy.static.akamaitechnologies.com
 a184-50-206-160.deploy.static.akamaitechnologies.com
+a1961.g2.akamai.net
 a2-16-153-11.deploy.static.akamaitechnologies.com
 a2-16-153-13.deploy.static.akamaitechnologies.com
 a2-16-153-16.deploy.static.akamaitechnologies.com
@@ -124,6 +126,7 @@ a2-22-245-218.deploy.static.akamaitechnologies.com
 a2-22-245-224.deploy.static.akamaitechnologies.com
 a2-22-245-225.deploy.static.akamaitechnologies.com
 a2-22-245-226.deploy.static.akamaitechnologies.com
+a2-22-245-227.deploy.static.akamaitechnologies.com
 a2-22-245-240.deploy.static.akamaitechnologies.com
 a2-22-245-241.deploy.static.akamaitechnologies.com
 a2-22-245-243.deploy.static.akamaitechnologies.com
@@ -228,6 +231,7 @@ a23-52-171-81.deploy.static.akamaitechnologies.com
 a23-53-126-134.deploy.static.akamaitechnologies.com
 a23-55-104-138.deploy.static.akamaitechnologies.com
 a23-55-104-146.deploy.static.akamaitechnologies.com
+a23-55-48-16.deploy.static.akamaitechnologies.com
 a23-56-29-129.deploy.static.akamaitechnologies.com
 a23-56-29-55.deploy.static.akamaitechnologies.com
 a23-59-168-99.deploy.static.akamaitechnologies.com
@@ -246,8 +250,12 @@ a95-101-35-11.deploy.static.akamaitechnologies.com
 a96-17-96-26.deploy.static.akamaitechnologies.com
 a96-17-96-7.deploy.static.akamaitechnologies.com
 ams15s30-in-f4.1e100.net
+ams15s33-in-f3.1e100.net
 ams15s33-in-f4.1e100.net
 apache2-jolly.iad1-shared-e1-20.dreamhost.com
+bg.microsoft.map.fastly.net
+bouncer-bouncer-elb.prod.mozaws.net
+campaign-service.cmps.logitech.io
 checkappexec.microsoft.com
 client.wns.windows.com
 collection.wildassault.com
@@ -260,6 +268,8 @@ datapipeline.logitech.io
 device-recommendation.logitech.com
 displaycatalog.mp.microsoft.com
 dl.google.com
+e3913.cd.akamaiedge.net
+ec2-52-27-213-25.us-west-2.compute.amazonaws.com
 edge.ds-c7114-microsoft.global.dns.qwilted-cds.cqloud.com
 edgedl.me.gvt1.com
 fd.api.iris.microsoft.com
@@ -281,6 +291,7 @@ lb-140-82-121-4-fra.github.com
 licensing.mp.microsoft.com
 login.live.com
 mdav.us.endpoint.security.microsoft.com
+mira-tmc.tm-4.office.com
 mobile.events.data.microsoft.com
 msedge.api.cdp.microsoft.com
 nav-edge.smartscreen.microsoft.com
@@ -288,6 +299,7 @@ nav.smartscreen.microsoft.com
 officeclient.microsoft.com
 pnzrha-aj-in-f3.1e100.net
 prd-capture-6.tjsint.net
+prod-agic-us-1.uksouth.cloudapp.azure.com
 push.bitdefender.net.cdn.cloudflare.net
 sa-in-f94.1e100.net
 server-108-138-36-12.muc50.r.cloudfront.net
@@ -297,6 +309,7 @@ server-108-156-64-197.ams1.r.cloudfront.net
 server-13-225-35-88.ath51.r.cloudfront.net
 server-18-165-66-204.sof50.r.cloudfront.net
 server-18-165-72-100.sof50.r.cloudfront.net
+server-18-165-72-114.sof50.r.cloudfront.net
 server-18-165-72-116.sof50.r.cloudfront.net
 server-18-165-72-119.sof50.r.cloudfront.net
 server-18-165-72-127.sof50.r.cloudfront.net
@@ -308,9 +321,12 @@ server-18-238-55-15.jfk52.r.cloudfront.net
 server-18-238-55-23.jfk52.r.cloudfront.net
 server-18-238-55-66.jfk52.r.cloudfront.net
 server-18-238-55-70.jfk52.r.cloudfront.net
+server-18-239-255-124.bud50.r.cloudfront.net
+server-18-239-255-127.bud50.r.cloudfront.net
 server-18-239-36-33.ams58.r.cloudfront.net
 server-18-239-36-49.ams58.r.cloudfront.net
 server-18-239-36-7.ams58.r.cloudfront.net
+server-18-244-140-57.lhr50.r.cloudfront.net
 server-18-244-79-54.sof50.r.cloudfront.net
 server-18-244-81-145.sof50.r.cloudfront.net
 server-18-244-87-107.sof50.r.cloudfront.net
@@ -325,6 +341,7 @@ server-18-244-87-45.sof50.r.cloudfront.net
 server-18-244-87-64.sof50.r.cloudfront.net
 server-18-244-87-78.sof50.r.cloudfront.net
 server-18-244-87-88.sof50.r.cloudfront.net
+server-18-65-31-231.ams1.r.cloudfront.net
 server-3-162-103-33.iad61.r.cloudfront.net
 server-3-162-103-62.iad61.r.cloudfront.net
 server-3-162-103-86.iad61.r.cloudfront.net
@@ -341,6 +358,7 @@ server-3-167-69-94.iad61.r.cloudfront.net
 server-52-84-115-214.sof50.r.cloudfront.net
 server-52-85-135-6.iad50.r.cloudfront.net
 settings-win.data.microsoft.com
+sof02s17-in-f3.1e100.net
 sof02s18-in-f27.1e100.net
 sof02s18-in-f3.1e100.net
 sof02s18-in-f46.1e100.net
@@ -373,6 +391,7 @@ um-in-f190.1e100.net
 um-in-f91.1e100.net
 um-in-f93.1e100.net
 unn-149-22-85-67.datapacket.com
+uv-in-f136.1e100.net
 ux-in-f207.1e100.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com

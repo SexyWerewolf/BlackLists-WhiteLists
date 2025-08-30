@@ -28,6 +28,10 @@
 142.251.140.78  #sof04s06-in-f14.1e100.net
 142.251.140.91  #storage.googleapis.com
 142.251.141.59  #storage.googleapis.com
+142.251.29.136  #uv-in-f136.1e100.net
+142.251.29.190  #uv-in-f190.1e100.net
+142.251.29.91   #dl.google.com
+142.251.29.93   #dl.google.com
 142.251.30.100  #sv-in-f100.1e100.net
 142.251.30.101  #sv-in-f101.1e100.net
 142.251.30.102  #sv-in-f102.1e100.net
@@ -89,6 +93,9 @@
 23.63.132.70    #a23-63-132-70.deploy.static.akamaitechnologies.com
 23.9.183.29     #a23-9-183-29.deploy.static.akamaitechnologies.com
 34.104.35.123   #123.35.104.34.bc.googleusercontent.com
+35.83.101.15    #bouncer-bouncer-elb.prod.mozaws.net
+52.27.213.25    #ec2-52-27-213-25.us-west-2.compute.amazonaws.com
+52.38.39.127    #bouncer-bouncer-elb.prod.mozaws.net
 74.125.126.190  #ik-in-f190.1e100.net
 74.125.126.91   #ik-in-f91.1e100.net
 74.125.134.207  #storage.googleapis.com
@@ -99,3 +106,4 @@
 74.125.26.207   #storage.googleapis.com
 74.125.26.91    #vh-in-f91.1e100.net
 74.125.26.93    #uc-in-f93.1e100.net
+95.100.70.200   #a95-100-70-200.deploy.static.akamaitechnologies.com

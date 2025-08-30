@@ -9,8 +9,8 @@
 146.75.122.172  #ctldl.windowsupdate.com
 146.75.2.172
 146.75.46.172   #ctldl.windowsupdate.com
+146.75.54.172   #bg.microsoft.map.fastly.net
 150.171.22.17
-151.101.62.172
 173.236.136.237 #apache2-jolly.iad1-shared-e1-20.dreamhost.com
 185.160.60.100
 192.168.2.119
@@ -44,6 +44,16 @@
 2.21.69.25      #a2-21-69-25.deploy.static.akamaitechnologies.com
 2.23.231.157    #ctldl.windowsupdate.com
 2.23.231.161    #a2-23-231-161.deploy.static.akamaitechnologies.com
+20.190.147.4
+20.190.147.5
+20.190.147.6
+20.190.147.7
+20.190.147.9
+20.190.177.147
+20.190.177.148
+20.190.177.19
+20.190.177.20   #www.tm.v4.a.prd.aadg.akadns.net
+20.190.177.85
 20.199.58.43    #fd.api.iris.microsoft.com
 20.223.36.55
 20.26.156.215   #github.com
